@@ -138,7 +138,7 @@ http://localhost:5173
 
 ## 👩‍💻 Author
 
-**Aditi Rawat**
+**Pratiksha Raturi**
 Computer Science Engineering Student
 
 ---
